@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/uscv/home/static/css/main.df0b05cb.chunk.css",
-    "main.js": "/uscv/home/static/js/main.ce35b9a6.chunk.js",
-    "main.js.map": "/uscv/home/static/js/main.ce35b9a6.chunk.js.map",
-    "runtime-main.js": "/uscv/home/static/js/runtime-main.cee51994.js",
-    "runtime-main.js.map": "/uscv/home/static/js/runtime-main.cee51994.js.map",
-    "static/js/2.b984bbb9.chunk.js": "/uscv/home/static/js/2.b984bbb9.chunk.js",
-    "static/js/2.b984bbb9.chunk.js.map": "/uscv/home/static/js/2.b984bbb9.chunk.js.map",
-    "index.html": "/uscv/home/index.html",
-    "static/css/main.df0b05cb.chunk.css.map": "/uscv/home/static/css/main.df0b05cb.chunk.css.map",
-    "static/js/2.b984bbb9.chunk.js.LICENSE.txt": "/uscv/home/static/js/2.b984bbb9.chunk.js.LICENSE.txt",
-    "static/media/Future.0e615e4b.jpg": "/uscv/home/static/media/Future.0e615e4b.jpg",
-    "static/media/bibliography.3fab1e16.jpg": "/uscv/home/static/media/bibliography.3fab1e16.jpg",
-    "static/media/native.c4fadbec.jpg": "/uscv/home/static/media/native.c4fadbec.jpg"
+    "main.css": "/uscv/Home/static/css/main.df0b05cb.chunk.css",
+    "main.js": "/uscv/Home/static/js/main.d8766794.chunk.js",
+    "main.js.map": "/uscv/Home/static/js/main.d8766794.chunk.js.map",
+    "runtime-main.js": "/uscv/Home/static/js/runtime-main.1e1e295d.js",
+    "runtime-main.js.map": "/uscv/Home/static/js/runtime-main.1e1e295d.js.map",
+    "static/js/2.b831ab16.chunk.js": "/uscv/Home/static/js/2.b831ab16.chunk.js",
+    "static/js/2.b831ab16.chunk.js.map": "/uscv/Home/static/js/2.b831ab16.chunk.js.map",
+    "index.html": "/uscv/Home/index.html",
+    "static/css/main.df0b05cb.chunk.css.map": "/uscv/Home/static/css/main.df0b05cb.chunk.css.map",
+    "static/js/2.b831ab16.chunk.js.LICENSE.txt": "/uscv/Home/static/js/2.b831ab16.chunk.js.LICENSE.txt",
+    "static/media/Future.0e615e4b.jpg": "/uscv/Home/static/media/Future.0e615e4b.jpg",
+    "static/media/bibliography.3fab1e16.jpg": "/uscv/Home/static/media/bibliography.3fab1e16.jpg",
+    "static/media/native.c4fadbec.jpg": "/uscv/Home/static/media/native.c4fadbec.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.cee51994.js",
-    "static/js/2.b984bbb9.chunk.js",
+    "static/js/runtime-main.1e1e295d.js",
+    "static/js/2.b831ab16.chunk.js",
     "static/css/main.df0b05cb.chunk.css",
-    "static/js/main.ce35b9a6.chunk.js"
+    "static/js/main.d8766794.chunk.js"
   ]
 }
